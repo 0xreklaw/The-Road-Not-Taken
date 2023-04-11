@@ -2,8 +2,8 @@
 
 ### Sections
 
-Mathematics
-Science
-History
-Ethics
+- Mathematics
+- Science
+- History
+- Ethics
 
